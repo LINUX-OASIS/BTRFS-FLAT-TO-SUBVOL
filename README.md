@@ -58,7 +58,7 @@ Running the script is simple, but please follow these steps carefully. **Crucial
 2.  **Make the Script Executable**
 
     ```bash
-    chmod +x custom-BTRFS-CONVERT-UBUNTU-INSTALL-TO-SUBVOLUME-INSTALL-CRITICAL.sh
+    chmod +x custom-BTRFS-CONVERT-UBUNTU-INSTALL-TO-SUBVOLUME-INSTALL-CRITICAL
     ```
 
 3.  **Run with `sudo`**
@@ -66,7 +66,7 @@ Running the script is simple, but please follow these steps carefully. **Crucial
     The script requires root privileges to mount partitions and move system files.
 
     ```bash
-    sudo ./custom-BTRFS-CONVERT-UBUNTU-INSTALL-TO-SUBVOLUME-INSTALL-CRITICAL.sh
+    sudo ./custom-BTRFS-CONVERT-UBUNTU-INSTALL-TO-SUBVOLUME-INSTALL-CRITICAL
     ```
 
 4.  **Follow the On-Screen Instructions**
